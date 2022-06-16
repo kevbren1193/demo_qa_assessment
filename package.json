@@ -1,0 +1,23 @@
+{
+  "name": "demo_qa_assessment",
+  "version": "1.0.0",
+  "description": "Automation framework for DemoQA site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevbren1193/demo_qa_assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevbren1193/demo_qa_assessment/issues"
+  },
+  "homepage": "https://github.com/kevbren1193/demo_qa_assessment#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
