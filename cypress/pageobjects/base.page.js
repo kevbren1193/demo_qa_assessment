@@ -36,4 +36,3 @@ export default class BasePage {
     }
 
 }
-//.rt-tbody .rt-td a:contains("${title}")

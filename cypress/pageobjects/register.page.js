@@ -1,4 +1,3 @@
-import BasePage from "./base.page";
 import BaseAuthPage from "./base.auth.page";
 
 class RegisterPage extends BaseAuthPage {
