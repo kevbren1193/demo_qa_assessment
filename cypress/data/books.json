@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "Git Pocket Guide",
+    "Author": "Richard E. Silverman",
+    "Publisher" : "O'Reilly Media"
+  },
+  {
+    "Title": "Speaking JavaScript",
+    "Author": "Axel Rauschmayer",
+    "Publisher" : "O'Reilly Media"
+  },
+  {
+    "Title": "Programming JavaScript Applications",
+    "Author": "Eric Elliott",
+    "Publisher" : "O'Reilly Media"
+  },
+  {
+    "Title": "Understanding ECMAScript 6",
+    "Author": "Nicholas C. Zakas",
+    "Publisher" : "No Starch Press"
+  }
+]
