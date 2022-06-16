@@ -20,7 +20,7 @@ describe('Login demoQA', () => {
         LoginPage.password.should("have.class", "is-invalid");
     });
 
-    it('when user enter non-existing username or password, then error should show', () => {
+    it('when user enter invalid credentials, then error should show', () => {
         LoginPage.username.type(UserData.Username + Math.random());
         LoginPage.password.type(UserData.Password + Math.random());
         LoginPage.loginBtn.click();
